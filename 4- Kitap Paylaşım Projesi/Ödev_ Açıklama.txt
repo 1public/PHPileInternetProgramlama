@@ -1,0 +1,5 @@
+Hocam, "Soru Cevap Projesi" adındaki klasör PHP kodlarımı barındırırken, "kitapkayit" adındaki klasör veritabanımı oluşturmaktadır
+
+Veritabı Adı: kitapkayit
+Tablo Adı: bilgiler
+Sütunlar: isimler, soyisimler, telefonlar, kitapAdi 	 
